@@ -1,4 +1,4 @@
-# douban-master
+# vue + axios + router 初始化架子
 
 > A Vue.js project
 
