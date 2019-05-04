@@ -1,6 +1,6 @@
-# vue + axios + router 初始化架子
+# vue2.x初始化架子
 
-> A Vue.js project
+> vue + axios + router
 
 ## Build Setup
 
